@@ -1,0 +1,32 @@
+i.chernukhin
+------------
+
+  10-04-2019
+  
+984A - accepted, java.util.Arrays used
+
+
+a.dvorniy
+---------
+
+  10-04-2019
+  
+984A - accepted, built-in sort() used
+1092B - accepted, built-in sort() used
+1101C - not accepted, wrong answer
+993B - not accepted, wrong answer
+1097A - not accepted, wrong answer
+
+  12-04-2019
+  
+4C (in 2019_04_10 dir) - not accepted, time limit exceeded
+467D (in 2019_04_10 dir) - not accepted, wrong answer
+
+
+v.trokhina
+----------
+
+  10-04-2019
+  
+984A - accepted, std::sort used
+1092B - accepted, std::sort used
