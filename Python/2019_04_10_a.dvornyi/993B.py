@@ -15,7 +15,7 @@ matches={}
 for i in parr1:
     curmatch={}
     for j in parr2:
-        if i[0]==j[0] and i[1]==j[1]:
+        if (i[0]==j[0] and i[1]==j[1]) or (i[0] == j[1] and i[1] == j[0]):
             continue
         elif i[0]==j[0] or i[0]==j[1]:
             curmatch[i[0]]=1

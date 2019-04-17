@@ -11,3 +11,14 @@ expected output: -1
 actual output: 1 1 2
 
 
+1097A
+
+range end is exclusive, so iteration should be over range(0, 5) instead of range(0, 4)
+
+4C
+
+time limit exceeded. Solution based on built-in python sets also exceeds time limit.
+
+467D
+
+Problem statemenet does not clarify this, but transititive dependencies are possible. raki -> raks -> rks

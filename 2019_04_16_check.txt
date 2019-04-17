@@ -30,3 +30,11 @@ v.trokhina
   
 984A - accepted, std::sort used
 1092B - accepted, std::sort used
+
+
+r.kerimova
+----------
+
+  10-04-2019
+  
+984A - accepted, built-in sort() used
